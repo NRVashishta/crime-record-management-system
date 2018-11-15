@@ -1,0 +1,10 @@
+C:\Users\niiki\source\repos\crime record management system\crime record management system\bin\Debug\crime record management system.exe.config
+C:\Users\niiki\source\repos\crime record management system\crime record management system\bin\Debug\crime record management system.exe
+C:\Users\niiki\source\repos\crime record management system\crime record management system\bin\Debug\crime record management system.pdb
+C:\Users\niiki\source\repos\crime record management system\crime record management system\obj\Debug\crime record management system.csprojAssemblyReference.cache
+C:\Users\niiki\source\repos\crime record management system\crime record management system\obj\Debug\crime_record_management_system.Form1.resources
+C:\Users\niiki\source\repos\crime record management system\crime record management system\obj\Debug\crime_record_management_system.Properties.Resources.resources
+C:\Users\niiki\source\repos\crime record management system\crime record management system\obj\Debug\crime record management system.csproj.GenerateResource.cache
+C:\Users\niiki\source\repos\crime record management system\crime record management system\obj\Debug\crime record management system.csproj.CoreCompileInputs.cache
+C:\Users\niiki\source\repos\crime record management system\crime record management system\obj\Debug\crime record management system.exe
+C:\Users\niiki\source\repos\crime record management system\crime record management system\obj\Debug\crime record management system.pdb
